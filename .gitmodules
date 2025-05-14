@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/LibrePhotos/librephotos.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LibrePhotos/librephotos-frontend.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/LibrePhotos/librephotos-docker.git
